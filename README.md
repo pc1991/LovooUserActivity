@@ -1,6 +1,8 @@
 # LovooUserActivity
 Lovoo User Activity from 2015
 
+(Courtesy: Utkarsh Singh of Kaggle)
+
 SUMMARY
 
 When Dating apps like Tinder were becoming viral, people wanted to have the best profile in order to get more matches and more potential encounters.
