@@ -2,6 +2,7 @@
 Lovoo User Activity from 2015
 
 SUMMARY
+
 When Dating apps like Tinder were becoming viral, people wanted to have the best profile in order to get more matches and more potential encounters.
 Unlike other previous dating platforms, those new ones emphasized on the mutuality of attraction before allowing any two people to get in touch and chat. This made it all the more important to create the best profile in order to get the best first impression.
 
@@ -16,7 +17,8 @@ what makes a person charismatic ?
 how do charismatic people present themselves ?
 In order to try and understand those different social questions, I decided to create a dataset of user profile informations using the social network Lovoo when it came out. By using different methodologies, I was able to gather user profile data, as well as some usually unavailable metrics (such as the number of profile visits).
 
-Content
+CONTENT
+
 The dataset contains user profile infos of users of the website Lovoo.
 
 The dataset was gathered during spring 2015 (april, may). At that time, Lovoo was expanding in european countries (among others), while Tinder was trending both in America and in Europe.
